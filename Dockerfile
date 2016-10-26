@@ -1,6 +1,6 @@
 #
 # Dockerized zcash cpuminer 
-# usage: docker run marsmensch/zcash-cpuminer -l zec.suprnova.cc:2142 -u mxnsch.donate -p x 
+# usage: docker run marsmensch/zcash-cpuminer -l zec.suprnova.cc:2142 -u mnschx.donate -p x 
 #
 # tip me at 1PboFDkBsW2i968UnehWwcSrM9Djq5LcLB
 #▒███████▒ ▄████▄   ▄▄▄        ██████  ██░ ██ 
@@ -19,7 +19,7 @@
 # docker run --interactive --tty --entrypoint=/bin/bash marsmensch/zcash-cpuminer
 #
 # 2) run the cpuminer manually daemon 
-# nheqminer -l zec.suprnova.cc:2142 -u mxnsch.donate -p x -t 4 
+# nheqminer -l zec.suprnova.cc:2142 -u mnschx.donate -p x -t 4 
 #
 # 3) happyness
 # 
