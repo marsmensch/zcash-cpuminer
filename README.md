@@ -1,6 +1,5 @@
 # Dockerized zcash cpuminer for Windows, Linux and OSX
 
-
 Run with desired settings
 ```
 $ docker run marsmensch/zcash-cpuminer -l zec.suprnova.cc:2142 -u mxnsch.donate -p x
