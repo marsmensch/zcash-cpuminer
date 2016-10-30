@@ -30,8 +30,9 @@
 FROM                 ubuntu:16.04
 MAINTAINER           Florian Maier <contact@marsmenschen.com>
 ENV GIT_PROJECT      nheqminer
-ENV GIT_URL          git://github.com/ocminer/${GIT_PROJECT}.git
-ENV REFRESHED_AT     2016-10-27
+#ENV GIT_URL          git://github.com/ocminer/${GIT_PROJECT}.git
+ENV GIT_URL          git://github.com/sarath-hotspot/${GIT_PROJECT}.git
+ENV REFRESHED_AT     2016-10-30
 
 # install dependencies
 RUN apt-get autoclean && apt-get autoremove && apt-get update && \
